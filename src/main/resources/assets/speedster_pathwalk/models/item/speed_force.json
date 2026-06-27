@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "speedster_pathwalk:item/speed_force"
+  }
+}
